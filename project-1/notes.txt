@@ -1,0 +1,3 @@
+3/17/23
+
+Project description: create static page with react design convention in mind
